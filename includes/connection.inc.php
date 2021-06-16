@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "onelife_wildmp";
-$password = "dolphin123$";
+$password = "dolphine123$";
 $dbname = "onelife_wildmp";
 // error_reporting(0);
 $conn = mysqli_connect($servername, $username, $password, $dbname);
