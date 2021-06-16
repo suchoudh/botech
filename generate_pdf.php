@@ -36,9 +36,7 @@ include('includes/connection.inc.php');
                           <label class="text-primary" style="font-size:24px;">Select Your Quiz and Month</label>
                             <select id="quiz" name="quiz" class="form-control">
                             <option value=""> Select your quiz here</option>
-                            <option value="biodiversity_may">Biodiversity Quiz May 2020</option>
-                            <option value="wildlife_june">Wildlife Quiz June 2020</option> 
-                            <option value="tiger_day_quiz_2020">MPTFS Tiger Day Quiz 2020</option>                           
+                            <option value="mptfs_biodiversity_2021">Biodiversity TESTING</option>
                             </select> 
                         </div>
                         <input class="btn btn-danger" type="submit" value="submit" name="submit">

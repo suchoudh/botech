@@ -67,32 +67,3 @@ echo "</table>";
 <?php
 include('includes/footer.php');
 ?>
-
-<script>
-window.onload=function() { // when the page has loaded
-  var bt = document.querySelectorAll(".reloadButton"); // get all buttons with the class
-  
-// for (var i=0;i<bt.length;i++) {   
-//     for (var i=0;i<1000;i++) {
-//     bt[i].click();   
-//   }
-  
-//   for (var i = 0; i < bt.length; i++) {
-// //   for (var i = 0; i <= 10; i++) {
-
-//     (function(i) {
-//         setTimeout(function(){
-//             bt[i].click();       
-//         }, i*3000);    
-//     }(i));
-//     if(i==4075)
-//     {
-//     break;
-//     }
-// }
-
-}
-</script>
-
-
-

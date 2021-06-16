@@ -1,8 +1,8 @@
 <?php
 $servername = "localhost";
-$username = "blueolz8_sankalp";
-$password = "blueocean@2020";
-$dbname = "blueolz8_blueocean";
+$username = "onelife_wildmp";
+$password = "dolphin123$";
+$dbname = "onelife_wildmp";
 // error_reporting(0);
 $conn = mysqli_connect($servername, $username, $password, $dbname);
 
